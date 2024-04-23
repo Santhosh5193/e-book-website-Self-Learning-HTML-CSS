@@ -1,0 +1,30 @@
+.navbar .btn-outline-light:hover {
+  color: var(--bs-dark);
+}
+
+.pt-7 {
+  padding-top: 8rem;
+}
+
+.mb-8 {
+  margin-bottom: 8rem;
+}
+
+.header {
+  background: url(../images/download-background.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.downloads {
+  background: url("../images/download-background.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.navbar-sticky {
+  opacity: 0.9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.modal-dialog {
+  max-width: 1000px;
+}
